@@ -1,7 +1,6 @@
 # Hi, I'm Rohan Kumar ! 👋
-`⚡ [Tagline]` | `🌱 [Currently Learning]` | `🎯 [Current Role]`  
-`⚡ Scaling solutions, one repo at a time`  
-`🌙 Night owl, early deployer`  
+`⚡ [🤖 Teaching robots to write poetry]` | `🌱 [🤖 Training robots to write Shakespeare (NLP + TensorFlow)]` | `🎯 [Junior Developer]`  
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourusername&label=Profile%20Views&countColor=%232ccce4)](https://visitorbadge.io)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
