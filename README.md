@@ -1,9 +1,10 @@
 # 🪐 Rohan Kumar | Lost in the Stack Overflow Nebula  
-`🚀 Riding waves of JavaScript and Python since 2022`  
-`⚡ 🤖 Teaching robots to write poetry]` | `🌱 🤖 Training robots to write Shakespeare (NLP + TensorFlow)` | `🎯 Junior Developer`  
+`🚀 Riding waves of JavaScript and Python since 2022`
+
+`🤖 Teaching robots to write poetry` | `🌱 🤖 Training robots to write Shakespeare (NLP + TensorFlow)` | `🎯 Junior Developer`  
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourusername&label=Profile%20Views&countColor=%232ccce4)](https://visitorbadge.io)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohankumar0706&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 💡 **About Me**  
 - 🔭 I’m currently working on **[Project Name]** → [Demo]()
@@ -23,8 +24,7 @@
 | **[Project Name](link)** | [Brief description] | ![Python](https://img.shields.io/badge/-Python-3776AB) |  
 
 📫 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)]www.linkedin.com/in/
-rohankumar0706
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/rohankumar0706)
 
 🎨 **Fun Stuff**  
 - 🎧 **Currently jamming to**: Eminem
