@@ -7,11 +7,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohankumar0706&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 💡 **About Me**  
-- 🔭 I’m currently working on **[Project Name]** → [Demo]()
+- 🔭 I’m currently working on **Pet Store** → [Demo]()
 - 🌟 Passionate about: [Passion #1], [Passion #2], [Passion #3]
-- 📚 Learning: **[Tech/Language]** + exploring [Topic]
-- 💬 Ask me about: [Expertise, e.g., "APIs", "UI Animations"]
-- 🎯 2025 Goals: [Goal #1], [Goal #2]
+- 📚 Learning: DSA With Cpp
+- 💬 Ask me about: DBMS
+- 🎯 2025 Goals: #1 Doing leetcode QUestions,#2 Get a Good Internship
 
 🛠️ **Tech Toolkit**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
