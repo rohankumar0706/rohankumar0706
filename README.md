@@ -1,9 +1,8 @@
-# ROHAN KUMAR
-`🚀 Riding waves of JavaScript and Python since 2022`
-
-`🤖 Teaching robots to write poetry` 
-       
-<h2 align="center">Lost in the Stack Overflow Nebula</h2> 
+# <div>
+  <h1 align="center">Hi 👋, I'm <i><s>Invincible!</s></i> Rohan Kumar</h1>
+  <h3 align="center">I write code that runs everywhere—Even on your cat’s laptop!</h3>
+</div>
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
